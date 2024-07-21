@@ -104,7 +104,7 @@
 	</div>
 </section>
 <section class="about-contant">
-	<div class="col-lg-8 offset-2 my-5">
+	<div class="col-lg-8 col-md-8 col-sm-8 offset-2 my-5">
 		<p><span style="color: #e1b702 ;"><b>Alpha photography</b></span> is a renowned name in the photography niche. Wedding is a wonderful journey o happily ever after. And if you are looking for the best wedding photographers, then your search ends here.
 
 Since its inception, the Alpha photography studio has been instrumental in creating mesmerizing photographic stories. If you are looking for the best photographers, then your search ends here.</p>
@@ -118,7 +118,7 @@ We never miss out on the small details as we know that when the couples flip thr
 
 
 
-<div class="list my-5">
+<div class="list  my-5">
 	<h1 class="my-4 ">Why Choose us?</h1>
 <ul>
 	<li>We choose quirky prewedding shoot locations in Ahmedabad to help you with natural settings to capture the perfect candid moments.</li>
@@ -136,7 +136,7 @@ Thus collaborate with us and let our lens create magic for you. Contact Alpha ph
 	</div>
 </section>
 <section class="">
-	<div class="col-lg-8 offset-2 call-section my-4">
+	<div class="col-lg-8 col-md-8 col-sm-8 offset-2 call-section my-4">
 						<div class="row">
                          <div class="col-lg-8">
                             <h3>Experience Best Wedding Cinematography</h3>
