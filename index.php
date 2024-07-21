@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
+	<title>Alpha Photography-Home</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -25,13 +25,13 @@
           <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Services</a>
+          <a class="nav-link" href="#services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.php">About Us</a>
+          <a class="nav-link" href="#about">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contect Us</a>
+          <a class="nav-link" href="#contact">Contect Us</a>
         </li>
        
         
@@ -70,7 +70,7 @@
 </section>
 
 
-<div class="container">
+<div class="container" id="about">
 <section class="my-5 container">
 	<div class="heading mar-60">
 		<h2 class="text-center fw-bold">About Us</h2>
@@ -97,7 +97,7 @@
 </section>
 
 
-	<section id="advertisers" class="advertisers-service-sec">
+	<section id="services" class="advertisers-service-sec">
   <div class="container">
     <div class="row">
       <div class="section-header text-center">
@@ -213,7 +213,7 @@
     <div class="footer-top">
     	<img src="images/footertop.webp">
     </div>
-    <footer class="footer">
+    <footer class="footer" id="contact">
       <div class="main-content  container">
         <div class="left box">
           <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="200px" width="250px"  alt="logo"> </a>
